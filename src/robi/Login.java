@@ -121,7 +121,7 @@ public class Login {
 				obj.findElement(By.name("Enter name of a TV Channel")).sendKeys(ise);
 				try {
 					obj.findElement(By.id("com.robi.aptvnew:id/thumbnailimage")).click();
-					Label o = new Label(3, j, "Channel found");
+					Label o = new Label(3, j, "Channel  found");
 
 				} catch (Exception e) {
 

@@ -62,5 +62,9 @@
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/AppiumForWindows_1_4_16_1.zip"/>
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/javax.mail.jar"/>
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/javax.mail-api-1.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/jars/java-client-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/jars/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/jars/javax.mail-api-1.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/jars/cglib-nodep-2.1_3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
