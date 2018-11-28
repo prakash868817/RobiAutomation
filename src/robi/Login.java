@@ -157,7 +157,7 @@ public class Login {
 				try {
 					if (obj.findElement(By.name("ACTIVATE")).isDisplayed()) {
 						List<WebElement> pack = obj.findElements(By.name("ACTIVATE"));
-						System.out.println("Total number of packs:" + pack.size());
+						System.out.println("Total number  of packs:" + pack.size());
 
 						String pk = "ACTIVATE";
 
