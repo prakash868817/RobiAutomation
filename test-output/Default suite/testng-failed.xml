@@ -6,8 +6,8 @@
       <class name="robi.Login">
         <methods>
           <include name="login"/>
-          <include name="packcheck"/>
           <include name="launch"/>
+          <include name="Report"/>
         </methods>
       </class> <!-- robi.Login -->
     </classes>
