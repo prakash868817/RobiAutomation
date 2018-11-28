@@ -126,7 +126,7 @@ public class Login {
 				} catch (Exception e) {
 
 					e.printStackTrace();
-					Label o = new Label(3, j, "Nochannel found");
+					Label o = new Label(3, j, "Nochannelfound");
 				}
 
 				obj.findElement(By.name("Playing Now!")).click();
