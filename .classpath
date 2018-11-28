@@ -3,8 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/jars/apache-mime4j-0.6.jar"/>
-	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/jars/bsh-2.0b4.jar"/>
-	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/jars/cglib-nodep-2.1_3.jar"/>
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/jars/commons-codec-1.10.jar"/>
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/jars/commons-collections-3.2.2.jar"/>
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/jars/commons-el-1.0.jar"/>
@@ -62,7 +60,6 @@
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/jars/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/java-client-2.1.0.jar"/>
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/AppiumForWindows_1_4_16_1.zip"/>
-	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/asm.jar"/>
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/javax.mail.jar"/>
 	<classpathentry kind="lib" path="D:/softwares/Mysoftwares/javax.mail-api-1.5.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
