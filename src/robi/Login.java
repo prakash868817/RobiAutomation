@@ -112,7 +112,7 @@ public class Login {
 			int nor = sh1.getRows();
 			WritableWorkbook wwb = Workbook.createWorkbook(f, wb);
 			WritableSheet wsh1 = wwb.getSheet(0);
-			System.out.println("number of rowns in sheet:" + nor);
+			System.out.println("number of rowns in     sheet:" + nor);
 			for (int j = 1; j < nor; j++) {
 				String ise = sh1.getCell(0, j).getContents();
 				System.out.println(ise);
@@ -127,6 +127,7 @@ public class Login {
 
 					e.printStackTrace();
 					Label o = new Label(3, j, "Nochannelfound");
+					System.out.println("commit");
 				}
 
 				obj.findElement(By.name("Playing Now!")).click();
