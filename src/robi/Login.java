@@ -127,7 +127,7 @@ public class Login {
 
 					e.printStackTrace();
 					Label o = new Label(3, j, "Nochannelfound");
-					System.out.println("commit");
+					System.out.println("commit ");
 				}
 
 				obj.findElement(By.name("Playing Now!")).click();
