@@ -235,7 +235,7 @@ public class Login {
 			message.setRecipients(Message.RecipientType.TO, InternetAddress.parse("praveen.guntaka@apalya.com,arun.k@apalya.com,lv.ramana@apalya.com,anusha.b@apalya.com"));
 
 			// Add the subject link
-			message.setSubject("Testing Report Run Through Jenkins");
+			message.setSubject("Testing       Report Run Through Jenkins");
 
 			// Create object to add multimedia type content
 			BodyPart messageBodyPart1 = new MimeBodyPart();
